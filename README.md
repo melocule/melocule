@@ -2,9 +2,10 @@
 
 ## Languages
 <div align="center" style="align-content: center; text-align:center;">
-<a href="https://profile.codersrank.io/user/melocule" target="_blank">
-<img
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=melocule&show_icons=true&locale=en&langs_count=8&layout=compact" alt="Top languages" />
+  <a href="https://profile.codersrank.io/user/melocule" target="_blank">
+  <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=melocule&width=800&skills=Typescript,HTML,Java,Javascript&show-other-skills=true"
-height=400 />
-</a>
+  height=400 />
+  </a>
 </div>
